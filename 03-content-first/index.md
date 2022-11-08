@@ -5,7 +5,7 @@
 A brand designer.
 
 ## My Story
-`````````````````
+```
 .................
 |               |
 | Here is       |
@@ -14,6 +14,7 @@ A brand designer.
 |               |
 |               |
 .................
+```
 
 Hello! I'm Anastasiia, a brand designer. Nice to meet you!
 
