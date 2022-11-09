@@ -28,9 +28,9 @@ A ~~markesigner~~ brand designer who cares about marketing.
 
 ## Featured Project
 
-![Case study #1: rebranding of the cinema Cinestar. Project preview.](images/case-study-01.png)
+![Case study #1: rebranding of the cinema CineStar. Project preview.](images/case-study-01.png)
 
-### #01. Rebranding of the cinema Cinestar
+### #01. Rebranding of the cinema CineStar
 
 - The purpose of this project was to unify and modernize the corporate identity of the cinema chain.
 - A new visual style increases the interest of the audience and attracts new customers.
