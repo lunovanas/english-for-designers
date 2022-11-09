@@ -1,4 +1,6 @@
-# #01. Rebranding of the cinema Cinestar
+# #01. Rebranding of the cinema CineStar
+
+![Alt text description.](images/cinestar-opening.png)
 
 - [Brief context](#brief-context)
 - [Objectives](#objectives)
@@ -10,19 +12,53 @@
 - [Takeaways](#takeaways)
 
 ## Brief context
+CineStar is a cinema company based in Lübeck, Germany. 
+The company was founded in 1948, and is the largest cinema chain in Germany (54 locations) and Croatia (14). Also it has multiplexes in Czech Republic, Bosnia and Herzegovina, and Serbia.
 
-The purpose of this project was to unify and modernize the corporate identity of the cinema chain.
-A new visual style increases the interest of the audience and attracts new customers.
+One of its branches is located in Prague 5 next to my apartment. Every day at least twice I pass by him, and several times I went to sessions. I like the interior and the halls, but the corporate style could be more modern and stylish, in my opinion. Thus, I chose the cinema CineStar as the object for the student rebranding project. 
+
 
 ## Objectives
+During the research, I found out that logos in countries differ from the main one, and not because of localization. So, first of all, the purpose of this project was to unify and modernize the corporate identity. As a consequence, a new visual style could increase audience interest and attract new customers.
 
+**In a nutshell:**
+- unify heterogeneous corporate identity,
+- brand modernization,
+- improving brand prestige.
 
 ## Key to crack
+The most expensive and difficult-to-change part of the rebranding is changing in repair, interior, and exterior (if applicable to the company).
+Thus, first of all, I paid attention to the interior — how does it look now?, what mood does it create?, what message does it carry? Is it possible to put in place the idea of a new concept with minimal intervention in the interior?
 
-<!-- Overview, problem, solution, etc. -->
+And it should be said that this part is the strength of the current style of the cinema. It has an incredible interior, space corridors, and good spacious halls.
 
-Content goes here…
+This was the starting point in thinking about the concept of a new visual style.
 
-![Alt text description.](images/filename.png)
+After a certain number of iterations, an image emerged. The words that inspired me were: imagination, intrigue, transformation, irrationality.
+The general atmosphere fits well with the Magician Archetype.
+
+The Magician Archetype makes dreams come true by using knowledge of how the world works. Magician brands are transformative. 
+When it comes to the motivation of the Magician, these brands want to make your dreams come to life and create something special and informative. They want to bring the future to the present. The goal of this type is to help people transform their world, improving one’s life and making things exciting.
+
+This is exactly what is suitable for cinema! Especially with such interesting premises as CineStar has!
+
+**In a nutshell:**
+- using the potential of existing unique interiors (the most expensive part of rebranding),
+- the Magician Archetype.
+
+## Process and Outcomes
+The thoughts above led to the concept of Teleport.
+
+## Team and my role
+It was a solo project.
+
+## Dates
+April, 2021.
+
+## Deadlines
+One week was given to complete the project.
+
+## Takeaways
+
 
 Note: Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
