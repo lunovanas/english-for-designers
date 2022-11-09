@@ -1,6 +1,9 @@
-# #01. Rebranding of the cinema CineStar
+# #02. GRAY OWL, gel polish brand
 
-![Alt text description.](images/cinestar-opening.png)
+- Creating a brand of gel polishes for sale on marketplaces.
+- Result: the idea and mood of the brand, logo, packaging in an unusual style for marketplaces, and photos.
+
+![Alt text description.](images/gray-owl-opening.png)
 
 - [Brief context](#brief-context)
 - [Objectives](#objectives)
