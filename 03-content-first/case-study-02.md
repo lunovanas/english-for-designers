@@ -31,7 +31,7 @@ It is also important to think about communication. It should attract the attenti
 
 **In a nutshell:**
 - atypical brightness
-- more personal and informal communication
+-  more informal communication.
 
 ## Process and Outcomes
 
