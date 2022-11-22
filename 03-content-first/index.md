@@ -5,20 +5,12 @@ A ~~markesigner~~ brand designer who cares about marketing.
 
 ## My Story
 
-```
-.................
-|               |
-| Here is       |
-| supposed      |
-| to be me :)   |
-|               |
-|               |
-.................
-```
-
 [__who:__] Hello! I'm Anastasiia. Nice to meet you!
 
 [__where:__] Currently based in Prague, Czech Republic, but originally from brave Ukraine ✌
+
+
+![Photo of me working on my laptop.](images/photo.jpg)
 
 [__work:__] My work is a combination of design, marketing, psychology, and neuroscience. Each brand is a living entity for me, with its own character, features, voice, and behavior. 
 
