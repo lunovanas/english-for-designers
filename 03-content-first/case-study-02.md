@@ -1,6 +1,5 @@
 # #02. GRAY OWL, gel polish brand
 
-![Alt text description.](images/gray-owl/gray-owl-opening.png)
 
 - [Brief context](#brief-context)
 - [Objectives](#objectives)
@@ -10,6 +9,8 @@
 - [Dates](#dates)
 - [Deadlines](#deadlines)
 - [Takeaways](#takeaways)
+
+![Alt text description.](images/gray-owl/gray-owl-opening.png)
 
 ## Brief context
 The company sells gel polishes and other manicure products. It uses a distribution network as its main sales channel. To increase sales, the marketing team wanted to use marketplaces. But that would be contrary to the contracts they have with their partners.
