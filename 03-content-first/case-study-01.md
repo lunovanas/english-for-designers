@@ -98,3 +98,8 @@ One week was given to complete the project.
 
 ## Takeaways
 This project was a great opportunity to learn more about rebranding. The changes don't have to be big to keep the brand recognizable. But we must move the design towards the chosen concept.
+
+
+___
+- [Back to home](#index.md)
+- [Go to next case](#gray-owl.md)
