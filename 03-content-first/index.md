@@ -12,9 +12,9 @@ A ~~markesigner~~ brand designer who cares about marketing.
 
 ![Photo of me with headphones at work.](images/photo1.jpg)
 
-[__work:__] My work is a combination of design, marketing, psychology, and neuroscience. Each brand is a living entity for me, with its own character, features, voice, and behavior. 
+[__work:__] In my work I like to combine design, marketing, psychology, and neuroscience. Each brand is a living entity for me, with its own character, features, voice, and behavior. 
 
- [__experience:__] Human-Computer Interaction course, 4 years in marketing, student majoring in Graphic Design.
+ [__experience:__] Human-Computer Interaction course, 4 years in marketing, Graphic Design student.
 
 [__also:__] Also, I'm a gamer...board games gamer 😊 Apart from my work and study, I enjoy traveling, dancing, reading and, it seems, figure skating (but so far I have only skated twice 😏)
 
