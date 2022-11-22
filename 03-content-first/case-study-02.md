@@ -1,6 +1,6 @@
 # #02. GRAY OWL, gel polish brand
 
-![Alt text description.](images/gray-owl-opening.png)
+![Alt text description.](images/gray-owl/gray-owl-opening.png)
 
 - [Brief context](#brief-context)
 - [Objectives](#objectives)
@@ -20,6 +20,8 @@ Thus, the team decided to create a completely different brand that has in common
 The specifics of marketplaces are keeping a lower price level. And, if we are talking about the nail industry, selling in sets.
 The general appearance and packaging should compare favorably with the existing offer. In short, look more expensive but be cheaper.
 
+![Alt text description.](images/gray-owl/gray-owl-competition.png)
+
 **In a nutshell:**
 - a brand of gel polishes for marketplaces,
 - must be able to compete on price and at the same time arouse interest among a huge number of offers,
@@ -29,12 +31,26 @@ The general appearance and packaging should compare favorably with the existing 
 Based on the above follows a solution tending to atypical brightness.
 It is also important to think about communication. It should attract the attention of a potential customer. It should encourage them to show interest in the product.
 
+![Alt text description.](images/gray-owl/gray-owl-moodboard.png)
+
 **In a nutshell:**
 - atypical brightness
 -  more informal communication.
 
 ## Process and Outcomes
 
+The concept for this project became funny, a little cheeky mood. To express it in a logo, I have chosen a line tattoo style and grunge mood font.
+
+![Alt text description.](images/gray-owl/gray-owl-concept.png)
+
+The main colors are gray (according to the brand name) and vivid yellow, which contrasts well with the first.
+
+![Alt text description.](images/gray-owl/gray-owl-colors.png)
+
+For packaging, 6 owls were drawn in the colors that are included in the set of gel polishes. On the each box is one of stable expressions. But one similar-sounding word was changing to "owl".
+
+![Alt text description.](images/gray-owl/gray-owl-mockup1.png)
+![Alt text description.](images/gray-owl/gray-owl-mockup2.png)
 
 ## Team and my role
 A team of marketer, project manager, and designer worked on the project. 
@@ -52,3 +68,9 @@ But, the denouement is near. Based on the information from the team, the release
 ## Takeaways
 I like this project with freedom and light mood. We could not be limited by the framework, be frivolous, rely on humor. We all had fun working on it.
 But, there is a never-do-it conclusion. Labels with color and product category should not be made so small and in an inconspicuous place. In full face, of course, you can see them, but in the context of their use, this solution is inconvenient.
+
+![Alt text description.](images/gray-owl/gray-owl-photos.png)
+
+___
+- [Back to home](index.md)
+- [Go to previous case](case-study-01.md)
