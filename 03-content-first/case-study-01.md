@@ -101,5 +101,5 @@ This project was a great opportunity to learn more about rebranding. The changes
 
 
 ___
-- [Back to home](03-content-first/index.md)
+- [Back to home](index.md)
 - [Go to next case](#case-study-02.md)
