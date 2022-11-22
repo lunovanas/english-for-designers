@@ -1,6 +1,5 @@
 # #01. Rebranding of the cinema CineStar
 
-![Alt text description.](images/cinestar/cinestar-opening.png)
 
 - [Brief context](#brief-context)
 - [Objectives](#objectives)
@@ -10,6 +9,8 @@
 - [Dates](#dates)
 - [Deadlines](#deadlines)
 - [Takeaways](#takeaways)
+
+![Alt text description.](images/cinestar/cinestar-opening.png)
 
 ## Brief context
 CineStar is a cinema company based in Lübeck, Germany. 
