@@ -41,12 +41,3 @@ A ~~markesigner~~ brand designer who cares about marketing.
 
 [View the Case Study #2](case-study-02.md)
 
-
-### #03. BEYOND, care cosmetics brand
-
-- Creating a brand with sexy and slightly provocative vibe.
-- Outcome of the project is creating the concept of the brand, as well as a name. Also, exept the logo, packaging, and SMM visual, marketing communication strategy was created.
-
-![Case study #3: BEYOND, care cosmetics brand. Project preview.](images/case-study-03.png)
-
-[View the Case Study #3](case-study-03.md)
