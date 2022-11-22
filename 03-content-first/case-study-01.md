@@ -1,6 +1,6 @@
 # #01. Rebranding of the cinema CineStar
 
-![Alt text description.](images/cinestar-opening.png)
+![Alt text description.](images/cinestar/cinestar-opening.png)
 
 - [Brief context](#brief-context)
 - [Objectives](#objectives)
@@ -14,6 +14,8 @@
 ## Brief context
 CineStar is a cinema company based in Lübeck, Germany. 
 The company was founded in 1948, and is the largest cinema chain in Germany (54 locations) and Croatia (14). Also it has multiplexes in Czech Republic, Bosnia and Herzegovina, and Serbia.
+
+![Alt text description.](images/cinestar/cinestar-context.png)
 
 One of its branches is located in Prague 5 next to my apartment. Every day at least twice I pass by him, and several times I went to sessions. I like the interior and the halls, but the corporate style could be more modern and stylish, in my opinion. Thus, I chose the cinema CineStar as the object for the student rebranding project. 
 
@@ -32,10 +34,14 @@ Thus, first of all, I paid attention to the interior — how does it look now?, 
 
 And it should be said that this part is the strength of the current style of the cinema. It has an incredible interior, space corridors, and good spacious halls.
 
+![Alt text description.](images/cinestar/cinestar-halls.png)
+
 This was the starting point in thinking about the concept of a new visual style.
 
 After a certain number of iterations, an image emerged. The words that inspired me were: imagination, intrigue, transformation, irrationality.
 The general atmosphere fits well with the Magician Archetype.
+
+![Alt text description.](images/cinestar/cinestar-archetype.png)
 
 The Magician Archetype makes dreams come true by using knowledge of how the world works. Magician brands are transformative. 
 When it comes to the motivation of the Magician, these brands want to make your dreams come to life and create something special and informative. They want to bring the future to the present. The goal of this type is to help people transform their world, improving one’s life and making things exciting.
@@ -49,6 +55,38 @@ This is exactly what is suitable for cinema! Especially with such interesting pr
 ## Process and Outcomes
 The thoughts above led to the concept of Teleport.
 
+![Alt text description.](images/cinestar/cinestar-teleport.png)
+
+I have choosen primary color — right blue, as a symbol of "mysticism". This creates a strange, inexpressible effect, as if pulling the observer along with it. 
+Secondary colors define the film's genres.
+
+![Alt text description.](images/cinestar/cinestar-colors.png)
+
+In line with this idea, examples of visual communication have been designed.
+
+![Alt text description.](images/cinestar/cinestar-mockup1.png)
+
+Mobile application instead of a customer card.
+
+![Alt text description.](images/cinestar/cinestar-app1.png)
+
+The interface changes depending on the genre of the most watched movies (from the history of purchased tickets).
+
+![Alt text description.](images/cinestar/cinestar-app2.png)
+
+Here is a visual of web site and social media.
+
+![Alt text description.](images/cinestar/cinestar-social.png)
+
+If there are halls in other cinemas, there are portals in CineStar!
+
+![Alt text description.](images/cinestar/cinestar-portals.png)
+
+Before and After...
+
+![Alt text description.](images/cinestar/cinestar-before-and-after.png)
+
+
 ## Team and my role
 It was a solo project.
 
@@ -59,6 +97,4 @@ April, 2021.
 One week was given to complete the project.
 
 ## Takeaways
-
-
-Note: Use Markdown for headings, paragraphs, lists, quotes, images, etc., to add structural meaning to your content.
+This project was a great opportunity to learn more about rebranding. The changes don't have to be big to keep the brand recognizable. But we must move the design towards the chosen concept.
