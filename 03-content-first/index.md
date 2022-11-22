@@ -10,7 +10,7 @@ A ~~markesigner~~ brand designer who cares about marketing.
 [__where:__] Currently based in Prague, Czech Republic, but originally from brave Ukraine ✌
 
 
-![Photo of me working on my laptop.](images/photo1.jpg)
+![Photo of me with headphones at work.](images/photo1.jpeg)
 
 [__work:__] My work is a combination of design, marketing, psychology, and neuroscience. Each brand is a living entity for me, with its own character, features, voice, and behavior. 
 
