@@ -16,7 +16,7 @@ A ~~markesigner~~ brand designer who cares about marketing.
 .................
 ```
 
-[__who:__] Hello! I'm Anastasiia, a ~~markesigner~~. Nice to meet you!
+[__who:__] Hello! I'm Anastasiia. Nice to meet you!
 
 [__where:__] Currently based in Prague, Czech Republic, but originally from brave Ukraine ✌
 
