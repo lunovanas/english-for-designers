@@ -101,5 +101,5 @@ This project was a great opportunity to learn more about rebranding. The changes
 
 
 ___
-- [Back to home](https://github.com/lunovanas/english-for-designers/blob/20f588eeba70308c95026a7d4de70f9d10bc457b/03-content-first/index.md)
+- [Back to home](03-content-first/index.md)
 - [Go to next case](#case-study-02.md)
