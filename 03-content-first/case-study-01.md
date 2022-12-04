@@ -1,16 +1,26 @@
 # #01. Rebranding of the cinema CineStar
 
-
+- [Dates](#dates)
+- [Deadlines](#deadlines)
+- [Team and my role](#team-and-my-role)
 - [Brief context](#brief-context)
 - [Objectives](#objectives)
 - [Key to crack](#key-to-crack)
 - [Process and Outcomes](#process-and-outcomes)
-- [Team and my role](#team-and-my-role)
-- [Dates](#dates)
-- [Deadlines](#deadlines)
 - [Takeaways](#takeaways)
 
 ![Alt text description.](images/cinestar/cinestar-opening.png)
+
+
+
+## Dates
+April, 2021.
+
+## Deadlines
+One week was given to complete the project.
+
+## Team and my role
+It was a solo project.
 
 ## Brief context
 CineStar is a cinema company based in Lübeck, Germany. 
@@ -87,15 +97,6 @@ Before and After...
 
 ![Alt text description.](images/cinestar/cinestar-before-and-after.png)
 
-
-## Team and my role
-It was a solo project.
-
-## Dates
-April, 2021.
-
-## Deadlines
-One week was given to complete the project.
 
 ## Takeaways
 This project was a great opportunity to learn more about rebranding. The changes don't have to be big to keep the brand recognizable. But we must move the design towards the chosen concept.
