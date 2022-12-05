@@ -1,6 +1,6 @@
 Hi, I’m Anastasiia Lunova
 
-I’m a brand designer. My goal is to combine design, marketing, and psychology to bring my client’s brand to life.
+I’m a curious and open-minded person who loves designing brands and getting new experiences.
 
 ![Photo of me with headphones at work.](images/photo1.jpg)
 
@@ -12,7 +12,7 @@ I’m a brand designer. My goal is to combine design, marketing, and psychology 
 My specialization is brand identity and visual communication.
 
 **Marketing Manager**
-2019.10 | 2021.03
+2019.10 | present
 E.Mi - International, Prague, Czech Republic
 - market analysis 
 - emerging opportunities definition
@@ -75,5 +75,7 @@ Web & Multimedia; Software Engineering
 - English (Intermediate)
 - Czech (Intermediate)
 - Russian (Native)
+
+______
 
 - [Download CV (PDF)](cv-2022-12-Lunova.pdf)
