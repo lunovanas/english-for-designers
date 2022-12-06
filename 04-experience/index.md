@@ -11,25 +11,21 @@ I’m a curious and open-minded person who loves designing brands and getting ne
 2021 | present
 My specialization is brand identity and visual communication.
 
-**Marketing Manager**
-2019.10 | present
+
 E.Mi - International, Prague, Czech Republic
+**Marketing Manager** (2019.10 | present)
 - market analysis 
 - emerging opportunities definition
 - drawing up algorithms for new products launching
 - promotional strategy development
 
-**Junior Marketing Manager**
-2018.10 | 2019.10
-E.Mi - International, Prague, Czech Republic
+**Junior Marketing Manager** (2018.10 | 2019.10)
 - organization a company participation in the Professional Beauty London exhibition
 - management of corporate events (in Spain, UK, Israel, Russia, Czech Republic)
 - backstage coordination at London Fashion Week 2019
 - organization of International Congress: program preparation, event moderation
 
-**Assistant in Marketing Department**
-2018.05 | 2018.10
-E.Mi – International s.r.o., Prague, Czech Republic
+**Assistant in Marketing Department** (2018.05 | 2018.10)
 - POS-materials development
 - creation of a competitor database
 - creation and moderation of database of all brand and products materials for distributors
@@ -41,10 +37,7 @@ E.Mi – International s.r.o., Prague, Czech Republic
 2020 | present
 **University of Creative Communication, Prague**
 Faculty of Visual Creation,
-Graphic and Media Design 
-
-2019
-**Graphic Design & Painting Training**
+Graphic and Media Design
 
 2013 | 2017
 **Czech Technical University, Prague**
@@ -55,14 +48,14 @@ Web & Multimedia; Software Engineering
 
 ## Skills
 
-**Soft skills:**
+**Skills:**
 - Fast learner
 - Creative
 - Multitasking
 - Analytical skills
 - Strategic mindset
 
-**Hard skills:**
+**Software:**
 - Adobe Indesign
 - Adobe Illustrator
 - Adobe Photoshop
