@@ -13,19 +13,22 @@ My specialization is brand identity and visual communication.
 
 
 E.Mi - International, Prague, Czech Republic
-**Marketing Manager** (2019.10 | present)
+**Marketing Manager** 
+2019.10 | present
 - market analysis 
 - emerging opportunities definition
 - drawing up algorithms for new products launching
 - promotional strategy development
 
-**Junior Marketing Manager** (2018.10 | 2019.10)
+**Junior Marketing Manager**
+2018.10 | 2019.10
 - organization a company participation in the Professional Beauty London exhibition
 - management of corporate events (in Spain, UK, Israel, Russia, Czech Republic)
 - backstage coordination at London Fashion Week 2019
 - organization of International Congress: program preparation, event moderation
 
-**Assistant in Marketing Department** (2018.05 | 2018.10)
+**Assistant in Marketing Department**
+2018.05 | 2018.10
 - POS-materials development
 - creation of a competitor database
 - creation and moderation of database of all brand and products materials for distributors
@@ -55,7 +58,7 @@ Web & Multimedia; Software Engineering
 - Analytical skills
 - Strategic mindset
 
-**Software:**
+**Tools:**
 - Adobe Indesign
 - Adobe Illustrator
 - Adobe Photoshop
