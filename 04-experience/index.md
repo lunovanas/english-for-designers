@@ -9,10 +9,18 @@ I’m a curious and open-minded person who loves designing brands and getting ne
 
 **Freelance Graphic Designer**
 2021 | present
-My specialization is brand identity and visual communication.
+I got into graphic design because of an interesting turn of events. There was a period when the he company where I work tried to hire a designer, but without success. No matter what, the workflow must continue – marketing always needs mockups, ads, and so on. We had some materials in other languages, so I just began to edit the layouts. Next, I needed more serious skills and requested a training course from the company. I realized that this is what I really wanted to do since childhood. So, I decided to get a second education in this field and combine it with practice.
+Now, my specialization is a brand identity and visual communication. My experience in a marketing helps me to understand the market and create brands that will work.
+Here are my cases:
+- rebrand of CineStar cinema chain;
+- gel polish brand Grey Owl;
+- gel polish line Salon Effect;
+- care cosmetics brand Beyond.
 
 
 E.Mi - International, Prague, Czech Republic
+It's the brand of all manicure stuff for professionals. The company is based in the Czech Republic and has its own manufacturing near Prague. For eight years, the company has developed its distribution in 30 countries. These include countries in the Middle East, Africa, Asia, and the United States.
+
 **Marketing Manager** 
 2019.10 | present
 - market analysis 
@@ -37,13 +45,14 @@ E.Mi - International, Prague, Czech Republic
 
 ## Education
 
-2020 | present
 **University of Creative Communication, Prague**
+2020 | present
 Faculty of Visual Creation,
 Graphic and Media Design
 
-2013 | 2017
+
 **Czech Technical University, Prague**
+2013 | 2017
 Faculty of Electrical Engineering,
 Software Technologies and Management,
 Web & Multimedia; Software Engineering
