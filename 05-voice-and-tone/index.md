@@ -1,4 +1,4 @@
-# Voice, Tone, Style
+# Voice, Tone, and Style
 
 ## For what is this guide?
 
