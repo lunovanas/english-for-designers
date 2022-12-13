@@ -51,12 +51,12 @@ Style is a compilation of what your writing looks like.
 What IS my Style:
 - headers-questions;
 - use of lists;
--  in long reads— recapitulation in a list at the end;
+-  in long reads — recap in a list at the end;
 - lists with semicolons (short version) or dots (long version);
 - moderate use of emoji;
 - clear language;
 - use of contractions;
-- use of abbreviatures. First use: Human-Computer Interacting (HCI). Second use: HCI.
+- use of abbreviations. First use: Human-Computer Interacting (HCI). Second use: HCI.
 - the passive voice can be used from time to time :);
 - write numbers up to ten in words;
 - aim for an average sentence length of 20-ish words.
