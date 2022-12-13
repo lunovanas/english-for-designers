@@ -17,6 +17,6 @@ This is a page that tells you about who I am and what I do.
 
 ## Classworks (//Extras)
 
-- [Alternative Text](01-character-description)
+- [Alternative Text](01-alternative-text)
 - First Impression
 - Takeaways
