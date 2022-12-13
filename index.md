@@ -5,8 +5,8 @@ This is a page that tells you about who I am and what I do.
 ## Who I am
 
 - My Story
-- CV
-- Voice, Tone, and Style
+- [CV](04-experience)
+- [Voice, Tone, and Style](05-voice-and-tone)
 - Contact: `jsemlunova@seznam.cz`
 
 ## Case studies
@@ -17,6 +17,6 @@ This is a page that tells you about who I am and what I do.
 
 ## Classworks (//Extras)
 
-- [Alternative Text](01-alternative-text)
-- First Impression
-- Takeaways
+- [Alternative Text](01-character-description)
+- [First Impression](02-first-impression)
+- [Takeaways](takeaways)
