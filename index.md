@@ -1,6 +1,6 @@
 # Hi, I’m Anastasiia
 
-This is my tagline that tells you about who I am and what I do.
+This is a page that tells you about who I am and what I do.
 
 ## Who I am
 
