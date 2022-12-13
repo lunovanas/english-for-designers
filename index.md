@@ -6,7 +6,7 @@ This is a page that tells you about who I am and what I do.
 
 - My Story
 - CV
-- Voice, Tone, Style
+- Voice, Tone, and Style
 - Contact: `jsemlunova@seznam.cz`
 
 ## Case studies
