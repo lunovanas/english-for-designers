@@ -1,7 +1,7 @@
 # First Impression
 
-![I'm at my workplace.](images/photo1.jpg)
-## Hi, I’m Anastasiia!
+![I′m at my workplace.](images/photo1.jpg)
+## Hi, I′m Anastasiia!
 My feature is to give you a living brand, not just a logo.
 
 In my work, I like to combine design, marketing, psychology and neuroscience. Each brand is a living entity, with its own character, features, voice, and behavior.
