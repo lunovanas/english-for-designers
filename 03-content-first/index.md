@@ -1,22 +1,18 @@
 # Anastasiia Lunova
 
-## About Me
-A ~~markesigner~~ brand designer who cares about marketing.
+## Who am I
+I′m a curious and open-minded person who loves designing brands and getting new experiences.
 
 ## My Story
 
-[__who:__] Hello! I'm Anastasiia. Nice to meet you!
-
-[__where:__] Currently based in Prague, Czech Republic, but originally from brave Ukraine ✌
-
+Hi, nice to meet you!
+I′m currently based in Prague, Czech Republic, but originally from brave Ukraine ✌
 
 ![Photo of me with headphones at work.](images/photo1.jpg)
 
-[__work:__] In my work I like to combine design, marketing, and psychology. Each brand is a living entity for me, with its own character, features, voice, and behavior. 
-
- [__experience:__] Human-Computer Interaction course, 4 years in marketing, Graphic Design student.
-
-[__also:__] Also, I'm a gamer...board games gamer 😊 Apart from my work and study, I enjoy traveling, dancing, reading and, it seems, figure skating (but so far I have only skated twice 😏)
+In my work I like to combine design, marketing, and psychology. Each brand is a living entity for me, with its own character, features, voice, and behavior. 
+My experience: Human-Computer Interaction course, 4 years in marketing, Graphic Design student.
+Also, I'm a gamer...board games gamer :) Apart from my work and study, I enjoy traveling, dancing, and reading.
 
 ## Featured Project
 
