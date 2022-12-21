@@ -101,4 +101,4 @@ Web & Multimedia; Software Engineering.
 
 ______
 
-- [Download CV (PDF)](cv-2022-12-Lunova.pdf)
+- [Download CV (PDF)](images/cv-2022-12-Lunova.pdf)
