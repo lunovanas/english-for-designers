@@ -14,9 +14,9 @@ Of course, I find this situation unfair! But honestly, who we are and what is ou
 
 **Look**, there are four clearly defined inclinations in professional orientation: techies, humanities, people of natural sciences, and people of arts. 
 
-[[/images/storytelling-01.jpg | ALT TEXT]]
+[/images/storytelling-01.jpg | ALT TEXT]
 
 
 And you know what I think? I think that a graphic designer is right here!
 
-[[/images/storytelling-02.jpg | ALT TEXT]]
+[/images/storytelling-02.jpg | ALT TEXT]
