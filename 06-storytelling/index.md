@@ -12,16 +12,16 @@ So, who are we, and what is our place among other professions?
 
 Most well-developed career assessment tests try to determine a person's thinking style and use it as a basis for providing career advice. There are such types of thinking:
 
-•	Analytical: People with this type of thinking style are rational, detail-oriented, and methodical. They are good at mathematics, logic, and abstract concepts.
-•	Humanitarian: People with this type of thinking style are empathetic, able to find common ground with others, and understand other points of view. They are interested in psychology and literature and have an aptitude for foreign languages, history, and social studies. They work well with texts and people.
-•	Practical: People with this type of thinking style can find practical applications for everything around them. They quickly adapt to changing conditions and enjoy working with their hands, creating or fixing things.
-•	Artistic-imaginative: People with this type of thinking style have developed imagination and creative abilities. They often have a passion for drawing, singing, and dancing.
+•	**Analytical**: People with this type of thinking style are rational, detail-oriented, and methodical. They are good at mathematics, logic, and abstract concepts.
+•	**Humanitarian**: People with this type of thinking style are empathetic, able to find common ground with others, and understand other points of view. They are interested in psychology and literature and have an aptitude for foreign languages, history, and social studies. They work well with texts and people.
+•	**Practical**: People with this type of thinking style can find practical applications for everything around them. They quickly adapt to changing conditions and enjoy working with their hands, creating or fixing things.
+•	**Artistic-imaginative**: People with this type of thinking style have developed imagination and creative abilities. They often have a passion for drawing, singing, and dancing.
 
 And do you know what I think? I think that a graphic designer is right here!
 
 Let me explain. 
 Once upon a time, there was a girl.
-From the childhood she has been interested in arts. All her hobbies revolved around drawing, dancing, and acting. But when she went to galleries, workshops, or lectures, she had a feeling her thinking was not artistic enough. The true art was too non-utilitarian for her to want to do it.
+From the childhood she has been interested in arts. All her hobbies revolved around drawing, dancing, and acting. She chose the secondary school with a focus on arts. But when she went to galleries, workshops, or lectures, she had a feeling her thinking was not artistic enough. Or that the thinking is not _just_ artistic. The true art was too non-practical for her to want to do it. And she desided to try something else.
 Some time later she went here.
 Absolving of 7 types of mathematics, different approaches to programming, few programming languages… After graduating high school, she had a feeling her thinking is not analytical enough. And she quit. To start almost from scratch.
 With no experience and no education in the field, she came to marketing. So what. In three years it will change anyway (spoiler).
@@ -32,13 +32,13 @@ And now she is here, studying graphic design at the High School of Creative Comm
 
 This story was told in a specific way. Now, you probably think that I am leading to the fact that all the stupid phrases from the beginning of the presentation are true. They are not.
 
-Exactly because of my path (sorry, the path of this hypothetical heroine) went the way it did, I can say something. Graphic design definitely has features from all the fields that have been named. Definitely. And now it’s time to return to the list of types of thinking. I left out another one. Universal.
-People with this type of thinking can realize themselves in any field — from programming to poetry. They succeed in almost everything they undertake. If you are this type, most likely you have a lot of different hobbies. Your interests may include sports, creativity, exact sciences, literature, politics, economics. This type of thinking is suitable for such professions as: project manager, entrepreneur, director, designer of any direction.
+Exactly because of my path (sorry, the path of this hypothetical heroine) went the way it did, I can say something. Graphic design definitely has features from all the fields that have been named. Definitely. And now it’s time to return to the list of types of thinking. I left out another one. **Universal**.
+People with this type of thinking can realize themselves in any field — from programming to poetry, — psychologists say. They succeed in almost everything they undertake. Their negative side is that they quickly get bored with the routine. If you are this type, most likely you have a lot of different hobbies. Your interests may include sports, creativity, exact sciences, literature, politics, economics. This type of thinking is suitable for such professions as: project manager, entrepreneur, director, designer of any direction.
 It's not so bad to be in such a rare group, right?
 So, yeh, maybe graphic designers stand apart from other groups, or maybe they are the coolest guys in the tiny intersection — you can think whatever you want. As for me, it depends on my mood.
 But the main point remains the same: each of you are a very special combination of gifts and skills, and you are responsible for developing them. 
 Whatever strategy you choose - to develop as a spiral, taking a little from each area and expanding your spiral more and more, or to choose a narrow direction and improve in it - accept yourself. Keep your mind open, look around, and think widely. Do what you enjoy right now, and don't worry if your preferences change the next day. It's okay. This is your journey to getting to know yourself.
 
 
-<img src="images/storytelling-01.jpg">
+To see the presentation, please, [click here] (https://www.figma.com/proto/v44ayqaXnkbgXJCBCFwcr5/Untitled?node-id=3-46&starting-point-node-id=3%3A46&scaling=contain).
 
