@@ -1,6 +1,6 @@
 # Year End Review
 
-##1) What did you like most about this course?
+## 1) What did you like most about this course?
 This course was special because of its super friendly and supportive atmosphere. There always was an individual approach and no pressure. I also appreciate that there was a focus on developing skills that will go with students outside the school (communication and presentation skills, compiling interesting texts). 
 
 ## 2) What did you like least about this course?
