@@ -24,3 +24,11 @@ The current brand cooperates with category A salons and is located in a higher p
 *The Aim:* creating a visual identity and communication style of the new brand.
 
 ## Main Brand Analysis
+![A collage with logo, brand colors, and fonts of the main brand EMI, as well as an example of its gel polish bottle.](images/main_brand_analysis.jpg)
+
+The EMI logo consists of three letters written in contrasting serif font, featuring a modern and minimalist design with clear lines and shapes for enhanced readability and easy zooming.
+The chosen fonts for EMI present a limitation as they are not suitable for languages with diacritics, disregarding the international representation of the company. The bottle layout incorporates sharp shapes and wide lines, creating a unique visual style while maintaining some resemblance to the parent brand, allowing for necessary brand connection without direct copying.
+EMI's brand positioning focuses on design and fashion, offering trendy gel nail shades, special decorations, and nail art techniques, while maintaining a reputation for excellence and high-quality products in the professional nail cosmetics industry.
+
+## Competitive Environment Analysis
+![Pictures of gel polish bottles of main five competitors: Bluesky, Enii Nails, Kodi, Victoria Vynn, Kinetics.](images/Competitive-Environment-Analysis.jpg)
