@@ -3,22 +3,22 @@
 
 ## Table of contents
 * [The Background of the Topic and Aim](#The-Background-of-the-Topic-and-Aim)
-* Main Brand Analysis
-* Competitive Environment Analysis
-* Brand Identity Development
-  - Moodboard
-  - Brand Name
-  - Logo
-  - Color Palette
-  - Font
-  - Mission
-  - Values
-  - Tone & Voice
-* Packaging: bottle and lables
-* POS materials
+* [Main Brand Analysis](#Main-Brand-Analysis)
+* [Competitive Environment Analysis](#Competitive-Environment-Analysis)
+* [Brand Identity Development](#Brand-Identity-Development)
+  - [Moodboard](#Moodboard)
+  - [Brand Name](#Brand-Name)
+  - [Logo](#Logo)
+  - [Color Palette](#Color-Palette)
+  - [Font](#Font)
+  - [Mission](#Mission)
+  - [Values](#Values)
+  - [Tone & Voice](#Tone-&-Voice)
+* [Packaging: bottle and lables](#Packaging:-bottle-and-lables)
+* [POS materials](#POS-materials)
 * [Communication on Digital Platfrom](#Communication-on-Digital-Platfrom)
 
-## The Background of the Topic
+## The Background of the Topic and Aim
 
 **The Topic:** creating a brand of gel polishes, which will fulfil the role of an Endorsed Brand of an already existing premium brand.
 
