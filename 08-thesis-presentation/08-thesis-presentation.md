@@ -104,7 +104,7 @@ _**To create a sense of ease and unlimited possibilities on the way to your drea
 The example:
 _Are you looking for a guaranteed high-quality and easy-to-apply gel polish? Hello, it’s ME! Let your new gel polish give you a sense of easy and unlimited possibilities on the way to your dream! Feel free to experiment and trying something new — we stand for quality and standards. ME is the choice of ambitious dreamers._
 
-• **Brand Language:**#
+• **Brand Language:**
 
 Vocabulary: using understandable and clear vocabulary to communicate with the audience;
 Formulation: using short sentences that are easily memorable and readable in time-limited situations;
@@ -123,7 +123,7 @@ _Get ready to soak up the sun in style with ME! Our vibrant hues and playful pat
 
 ![A demonstration of a label for ME gel polish where the name of the shade contains ME, and the number of shade shows color segment.](images/me-legend.jpg)
 
-All shade names will incorporate two letters from the brand name, "ME," as a standalone pronoun or part of a word. The shade numbering system will also align with another pillar of the ME brand — simplicity. This includes simplifying perception so that nothing distracts from the passion for the process and the pursuit of one's dream. Using numbers alone for shade identification could be confused with EMI gel polishes. Additionally, large numbers are less memorable for customers as they have no direct association with the color itself. Therefore, the ME shade numbering system will consist of a letter representing the color group (e.g., Y for yellow, R for red, B for blue, etc.) and a digit indicating the sequence number within that group.
+All shade names will incorporate two letters from the brand name, “ME” as a standalone pronoun or part of a word. The shade numbering system will also align with another pillar of the ME brand — simplicity. This includes simplifying perception so that nothing distracts from the passion for the process and the pursuit of one's dream. Using numbers alone for shade identification could be confused with EMI gel polishes. Additionally, large numbers are less memorable for customers as they have no direct association with the color itself. Therefore, the ME shade numbering system will consist of a letter representing the color group (e.g., Y for yellow, R for red, B for blue, etc.) and a digit indicating the sequence number within that group.
 
 ![An example of labels for additional liquids (such as base and top gels) and gel polishes.](images/me-labels.jpg)
 
