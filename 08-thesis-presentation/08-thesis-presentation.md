@@ -14,7 +14,7 @@
   - [Mission](#Mission)
   - [Values](#Values)
   - [Tone & Voice](#Tone-&-Voice)
-* [Packaging. Bbottle and lables](#Packaging.-Bottle-and-lables)
+* [Packaging. Bottle and lables](#Packaging.-Bottle-and-lables)
 * [POS materials](#POS-materials)
 * [Communication on Digital Platfrom](#Communication-on-Digital-Platfrom)
 
