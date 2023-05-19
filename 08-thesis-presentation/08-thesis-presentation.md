@@ -1,23 +1,22 @@
 # Thesis presentation
 # Visual Identity of a Cosmetic Brand
-[](Click to see the full presentation)
 
 ## Table of contents
-* The Background of the Topic and Aim
+* [The Background of the Topic and Aim](#The-Background-of-the-Topic-and-Aim)
 * Main Brand Analysis
 * Competitive Environment Analysis
 * Brand Identity Development
-** Moodboard
-** Brand Name
-** Logo
-** Color Palette
-** Font
-** Mission
-** Values
-** Tone & Voice
+  - Moodboard
+  - Brand Name
+  - Logo
+  - Color Palette
+  - Font
+  - Mission
+  - Values
+  - Tone & Voice
 * Packaging: bottle and lables
 * POS materials
-* Communication on Digital Platfrom
+* [Communication on Digital Platfrom](#Communication-on-Digital-Platfrom)
 
 ## The Background of the Topic
 
@@ -131,6 +130,22 @@ All shade names will incorporate two letters from the brand name, "ME," as a sta
 
 ## POS materials
 
-![An illustration of branded materials: t-shirtm apron, pack, stickers, and shipping box](images/me-pos.jpg)
+![An illustration of branded materials: t-shirtm apron, pack, stickers, and shipping box.](images/me-pos.jpg)
+![An illustration of ME business cards.](images/me-business-cards.jpg)
 
 ## Communication on Digital Platfrom
+The icons set:
+![Icons set for the brand ME in three versioins: basic, outline, and inversion.](images/me-icons.jpg)
+
+The example og Instagram communication:
+![A mockup with Instagram communication.](images/me-instagram.jpg)
+
+The example of the set of images for e-shop:
+![An example of the set of images for e-shop.](images/me-e-shop.jpg)
+
+The example of the set of images for marketplaces:
+![An example of the set of images for marketplaces.](images/me-marketplace.jpg)
+
+
+
+[Click to see the full presentation](images/08-thesis-presentation.pdf)
