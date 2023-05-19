@@ -14,7 +14,7 @@
   - [Mission](#Mission)
   - [Values](#Values)
   - [Tone & Voice](#Tone-&-Voice)
-* [Packaging: bottle and lables](#Packaging:-bottle-and-lables)
+* [Packaging. Bbottle and lables](#Packaging.-Bottle-and-lables)
 * [POS materials](#POS-materials)
 * [Communication on Digital Platfrom](#Communication-on-Digital-Platfrom)
 
@@ -119,7 +119,7 @@ _Get ready to soak up the sun in style with ME! Our vibrant hues and playful pat
 **As a greeting** in printed materials, videos, or posts, it is recommended to use a phrase that will be repeated again and again, thus fixing it in the customer’s memory for the brand. Such a phrase is: “Hello! It’s ME!”.
 **The last sentence in business communication:** the sentence that will be used at the end of materials related to promotional offers, thus creating the desired message. It reads: “You and ME will be a great team!”.
 
-## Packaging: bottle and lables
+## Packaging. Bottle and lables
 
 ![A demonstration of a label for ME gel polish where the name of the shade contains ME, and the number of shade shows color segment.](images/me-legend.jpg)
 
