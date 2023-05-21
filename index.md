@@ -23,9 +23,10 @@ Contacts:
 
 - [Alternative Text;](01-alternative-text/index.md)
 - [First Impression;](02-first-impression/index.md)
-- [Takeaways.](takeaways)
+- [Takeaways;](takeaways/index.md)
+- [Thesis Abstract.](07-thesis-abstract/thesis-abstract.md)
 
 ## Presentations
-- [Storytelling;]()
+- [Storytelling;](06-storytelling/index.md)
 - [Final Thesis;](08-thesis-presentation/08-thesis-presentation.md)
-- [Year End Review.]()
+- [Year End Review.](00-year-end-review/index.md)
