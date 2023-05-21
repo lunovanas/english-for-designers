@@ -21,8 +21,8 @@ Contacts:
 
 ## Classworks
 
-- [Alternative Text;](01-character-description)
-- [First Impression;](02-first-impression)
+- [Alternative Text;](01-alternative-text/index.md)
+- [First Impression;](02-first-impression/index.md)
 - [Takeaways.](takeaways)
 
 ## Presentations
