@@ -24,3 +24,8 @@ Contacts:
 - [Alternative Text;](01-character-description)
 - [First Impression;](02-first-impression)
 - [Takeaways.](takeaways)
+
+## Presentations
+- [Storytelling;]()
+- [Final Thesis;](08-thesis-presentation/08-thesis-presentation.md)
+- [Year End Review.]()
