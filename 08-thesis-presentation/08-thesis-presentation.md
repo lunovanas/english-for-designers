@@ -148,4 +148,5 @@ The example of the set of images for marketplaces:
 
 
 
-[Click to see the full presentation](images/08-thesis-presentation.pdf)
+Thank you for your attention!
+```[Click to see the full presentation](images/08-thesis-presentation.pdf)
