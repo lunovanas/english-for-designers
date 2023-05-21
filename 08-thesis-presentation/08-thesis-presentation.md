@@ -144,7 +144,7 @@ The example of the set of images for e-shop:
 ![An example of the set of images for e-shop.](images/me-e-shop.jpg)
 
 The example of the set of images for marketplaces:
-![An example of the set of images for marketplaces.](images/me-marketplace.jpg)
+![An example of the set of images for marketplaces.](images/me-marketplaces.jpg)
 
 
 
