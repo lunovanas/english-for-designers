@@ -2,7 +2,7 @@
 
 ### by Anastasiia Lunova
 
-Initially, I was going to discuss a completely different topic: "How Graphic Design Impacts Society." However, while working on this subject, I had a thought that may be relevant to those present as well. Sometimes I feel that some people misunderstand and underestimate Graphic Design. They see it as something that can be learned in a 2-3 month online course, and that's it. I find this situation unfair! Here are some options that some people may think:
+Initially, I was going to discuss a completely different topic: "How Graphic Design Impacts Society". However, while working on this subject, I had a thought that may be relevant to those present as well. Sometimes I feel that some people misunderstand and underestimate Graphic Design. They see it as something that can be learned in a 2-3 month online course, and that's it. I find this situation unfair! Here are some options that some people may think:
 
 • Graphic designers are marketers who know how to draw;
 • They are artists who were not accepted into the Academy of Fine Arts (because they were not "fine" enough);
